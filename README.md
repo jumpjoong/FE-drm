@@ -10,7 +10,7 @@
 
 ## 3. db서버 완전 정지 (백그라운드까지 제거)
 
-1.3. brew services remove postgresql@14
+1-3. brew services remove postgresql@14
 
 # API명세서 조회 (자바 디버그 실행)
 
